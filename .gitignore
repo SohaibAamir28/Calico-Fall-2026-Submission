@@ -1,0 +1,33 @@
+# Compiled C++ binaries / debug files
+*.exe
+*.pdb
+*.ilk
+*.obj
+*.o
+*.out
+a.out
+solution
+**/solution.dSYM/
+
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+env/
+
+# Local test outputs / scratch files
+*.log
+my_output*.txt
+big_*.in
+
+# Editors / IDEs
+.vscode/
+.idea/
+*.swp
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
